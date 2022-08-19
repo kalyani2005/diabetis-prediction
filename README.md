@@ -1,5 +1,5 @@
 # diabetes_prediction
-streamlit run app.py
+# streamlit run app.py
 Preview of the Project
 
 ![](images/1.PNG)
